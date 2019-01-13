@@ -9,7 +9,7 @@
   "author": "Yùn",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "11.3.2"
   }
 }
   
