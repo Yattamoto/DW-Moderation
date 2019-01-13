@@ -1,8 +1,8 @@
 {
-  "name": DW Modération,
+  "name": "DWModération",
   "version": "1.0.0",
   "description" : "bot de moderation du serveur samp dream-world",
-  "main": index.js,
+  "main": "index.js",
   "author": "Yùn",
 }
   
