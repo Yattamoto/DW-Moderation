@@ -1,8 +1,15 @@
 {
-  "name": "DWModération",
+  "name": "DW Moderation",
   "version": "1.0.0",
-  "description" : "bot de moderation du serveur samp dream-world",
+  "description": "",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "Yùn",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
 }
   
